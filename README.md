@@ -94,14 +94,21 @@ This view shows the persistent cart items fetched from the backend, along with d
 [**Image 2: Shopping Cart Summary** - *<img width="1910" height="868" alt="image" src="https://github.com/user-attachments/assets/28ec2981-abe1-4f41-949b-920f50d06464" />
 *]
 
-### 3. Checkout Process
+### 3. Shopping Cart with Quantity Update
+
+This view shows the persistent cart items fetched from the backend. Users can **adjust item quantities directly** using the input fields, and the subtotal, tax, and final total will update dynamically.
+
+[**Image 2: Shopping Cart with Quantity Update** - *Screenshot of the cart table showing items, **<img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/e3ab81ac-85fd-4d1c-a22d-c0b592bacb12" />
+*]
+
+### 4. Checkout Process
 
 Users proceed to the checkout screen to enter mock customer details and review the final calculated totals before placing the order.
 
 [**Image 3: Checkout Details** - *<img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/ae6b7222-3897-4fa9-932c-11689be68749" />
 *]
 
-### 4. Checkout Confirmation
+### 5. Checkout Confirmation
 
 The successful **mock checkout process** returns a final receipt, confirms the payment total, and clears the cart in the database.
 
