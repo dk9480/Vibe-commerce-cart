@@ -1,0 +1,7 @@
+# 1. Private Environment Variables
+# This is the single most important file to hide from public view.
+.env
+
+# 2. Node Dependencies
+# This keeps the huge node_modules folder out of the repository.
+node_modules/
