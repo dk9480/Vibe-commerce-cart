@@ -98,7 +98,7 @@ This view shows the persistent cart items fetched from the backend, along with d
 
 This view shows the persistent cart items fetched from the backend. Users can **adjust item quantities directly** using the input fields, and the subtotal, tax, and final total will update dynamically.
 
-[**Image 2: Shopping Cart with Quantity Update** - *Screenshot of the cart table showing items, **<img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/e3ab81ac-85fd-4d1c-a22d-c0b592bacb12" />
+[**Image 2: Shopping Cart with Quantity Update** - *<img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/e3ab81ac-85fd-4d1c-a22d-c0b592bacb12" />
 *]
 
 ### 4. Checkout Process
