@@ -84,19 +84,29 @@ The following screenshots illustrate the core features of the application.
 
 The product list is displayed, with data seeded from the external API into the MongoDB database. Users can click the "**Add to Cart**" button to begin shopping.
 
-[**Image 1: Product Catalog View** - *Screenshot of the product grid with 'Add to Cart' buttons.*]
+[**Image 1: Product Catalog View** - *<img width="1913" height="888" alt="image" src="https://github.com/user-attachments/assets/30a2840d-a188-4cfd-83a6-58aba661b568" />
+*]
 
 ### 2. Shopping Cart Summary
 
 This view shows the persistent cart items fetched from the backend, along with dynamic calculations for the subtotal, tax, and final total.
 
-[**Image 2: Shopping Cart Summary** - *Screenshot of the cart table showing items, quantity inputs, 'Remove' button, and the final Cart Summary box.*]
+[**Image 2: Shopping Cart Summary** - *<img width="1910" height="868" alt="image" src="https://github.com/user-attachments/assets/28ec2981-abe1-4f41-949b-920f50d06464" />
+*]
 
-### 3. Checkout Confirmation
+### 3. Checkout Process
 
-The final screen demonstrates the mock checkout process, where customer details are captured, and a final receipt is returned after the cart is successfully cleared in the database.
+Users proceed to the checkout screen to enter mock customer details and review the final calculated totals before placing the order.
 
-[**Image 3: Checkout Confirmation** - *Screenshot of the successful 'Order Placed Successfully!' receipt.*]
+[**Image 3: Checkout Details** - *<img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/ae6b7222-3897-4fa9-932c-11689be68749" />
+*]
+
+### 4. Checkout Confirmation
+
+The successful **mock checkout process** returns a final receipt, confirms the payment total, and clears the cart in the database.
+
+[**Image 4: Order Confirmation** - *<img width="1919" height="852" alt="image" src="https://github.com/user-attachments/assets/0ade3689-b40b-4209-a2f8-600b66999ba8" />
+*]
 
 ---
 
